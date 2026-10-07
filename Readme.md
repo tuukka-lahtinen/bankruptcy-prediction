@@ -1,6 +1,6 @@
 # Bankruptcy Prediction with Logistic Regression
 
-A simple, beginner-friendly example of a supervised binary classification task in Python: predicting whether a company goes bankrupt from its financial ratios.
+A simple supervised binary classification task in Python: predicting whether a company goes bankrupt from its financial ratios.
 
 ## Goal
 
